@@ -1,10 +1,8 @@
-# Laravel Restaurant Order Management System (LaravelROMS)
+# Laravel Order Management System
 
 ## About this application
 
-This application is created by MD INZAMUL HAQUE for INFORTECH Solutions. This is a simple restaurant order management system. 
-#### Framework: Laravel 5.3
-#### Language: PHP 5.7
+This application is created by Hamza Safdar. This is a simple order management system. 
 
 ## Install
 - Type this line:
@@ -18,10 +16,6 @@ composer update
 ```
 php artisan migrate
 ```
-
-- Login:
-	Username: inzamul36@live.com <br>
-	Password: 123456asdfgh
 
 - To Add new user go to "app\Http\Controllers\Auth\RegisterController.php" comment this line 
 ```
@@ -49,10 +43,6 @@ in bottom of the page. Then go to /register by web browser. Fill the form.
 - Easy interface
 - Mobile view
 
-## Uses
-* Restaurant Order
-* etc...
 
 ### Contact me 
-Facebook: facebook.com/inzamul36 <br>
-Email: inzamul36@gmail.com, inzamuk36@live.com, inzamul36@yahoo.com   
+Email: hamzasafdar125@gmail.com   
